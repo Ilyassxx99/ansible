@@ -1,0 +1,12 @@
+[loadbalancers]
+lb01
+
+[webservers]
+app01
+app02
+
+[databases]
+db01
+
+[controllers]
+controller
